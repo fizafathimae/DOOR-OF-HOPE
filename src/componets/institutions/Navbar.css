@@ -1,0 +1,23 @@
+.unlist {
+  list-style-type: none;
+  font-size: 20px;
+  padding: 10px;
+  background-color: rgb(21, 16, 1, 0.6);
+  width: 10%;
+  text-align: center;
+  height: 42rem;
+  position: fixed;
+}
+
+.unlist li {
+  background-color: aliceblue;
+  margin-bottom: 8px;
+  border-radius: 25px;
+  border: 1px solid wheat;
+}
+
+.unlist li:hover {
+  background-color: gray;
+  color: white;
+  cursor: pointer;
+}

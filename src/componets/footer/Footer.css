@@ -1,0 +1,14 @@
+.ftr {
+  clear: both;
+  position: relative;
+  height: 100px;
+  margin-top: 9rem;
+  color: antiquewhite;
+  padding-top: 30px;
+  min-width: 32%;
+  border: 1px;
+  border-radius: 45px;
+}
+.row {
+  text-align: center;
+}

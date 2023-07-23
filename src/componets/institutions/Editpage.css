@@ -1,0 +1,30 @@
+.test2 i {
+  margin-left: 7px;
+}
+
+.test2 {
+  background-image: url("https://i.ytimg.com/vi/v1SabYdIlZI/maxresdefault.jpg");
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+
+.tak {
+  float: left;
+  text-align: center;
+  border-radius: 25px;
+  font-size: 30px;
+  margin: 2rem;
+  font-family: sans-serif;
+}
+
+.tak:hover {
+  background-color: rgba(10, 8, 8, 0.747);
+  cursor: pointer;
+}
+
+.bx {
+  background-color: aliceblue;
+  margin-top: 11rem;
+  border-radius: 15px;
+  padding: 2rem;
+}
